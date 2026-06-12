@@ -39,18 +39,23 @@ bash
 python SQL_Integration.py
 ```
 
-**📊 Пример вывода**
+## 📊 Пример вывода
 
 Проверка подключения к SQL Server...
 ✅ Подключение успешно!
 
 Найдено CSV файлов: 9
 ==================================================
+
   Загрузка olist_customers_dataset.csv...
     ✅ olist_customers_dataset: 99441 строк
+
   Загрузка olist_orders_dataset.csv...
     ✅ olist_orders_dataset: 99441 строк
-...
+
+  Загрузка olist_products_dataset.csv...
+    ✅ olist_products_dataset: 32951 строк
+
 ==================================================
 Готово! Успешно загружено: 9 из 9
 
