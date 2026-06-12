@@ -19,8 +19,10 @@
 
 ### 1. Установите зависимости
 
-```bash
-pip install pandas pyodbc sqlalchemy```
+```
+bash
+pip install pandas pyodbc sqlalchemy
+```
 
 **2. Настройте подключение**
 
@@ -32,8 +34,10 @@ CSV_FOLDER — путь к папке с CSV-файлами
 
 **3. Запустите скрипт**
 
+```
 bash
 python SQL_Integration.py
+```
 
 **📊 Пример вывода**
 
@@ -53,5 +57,5 @@ python SQL_Integration.py
 **📁 Исходные данные**
 Датасет: Brazilian E-Commerce Public Dataset by Olist
 
-**Автор**
-Артём Низямов
+** 👤 Автор**
+Артём Низамов
